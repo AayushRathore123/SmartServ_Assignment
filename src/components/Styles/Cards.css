@@ -1,0 +1,13 @@
+.Cards{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    min-width: 200px;
+    width: fit-content;
+    padding: 10px;
+    text-align: left; 
+    margin: 10px;  
+    height: max-content;
+
+}
+.Cards>h2{
+    text-decoration: underline;
+}
